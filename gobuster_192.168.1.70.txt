@@ -1,0 +1,8 @@
+.hta                [33m (Status: 403)[0m [Size: 966]
+.htpasswd           [33m (Status: 403)[0m [Size: 966]
+.htaccess           [33m (Status: 403)[0m [Size: 966]
+~bin                [33m (Status: 403)[0m [Size: 966]
+~mail               [33m (Status: 403)[0m [Size: 966]
+~nobody             [33m (Status: 403)[0m [Size: 966]
+~root               [33m (Status: 403)[0m [Size: 966]
+~ftp                [33m (Status: 403)[0m [Size: 966]
